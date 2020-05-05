@@ -1,3 +1,4 @@
+// Ibrahim alarifi
 module quad(clk50, quadA, quadB, dir);
 
 input 	logic				clk50;

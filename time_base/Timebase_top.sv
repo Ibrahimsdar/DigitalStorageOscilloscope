@@ -1,3 +1,4 @@
+// Ibrahim alarifi
 module Timebase_top(
 	clk50, 
 	quadA, 

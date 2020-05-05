@@ -1,3 +1,4 @@
+// Ibrahim alarifi
 module clock_devider(clk50, enable, rst, base, ADC_clk);
 
 input 	logic				clk50;

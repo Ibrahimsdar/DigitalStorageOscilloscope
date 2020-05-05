@@ -1,3 +1,4 @@
+// Ibrahim alarifi
 module time_definer(clk50, base, dir, rst);
 
 input 	logic				clk50;
